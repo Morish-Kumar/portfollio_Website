@@ -14,7 +14,7 @@ export default function Service() {
 
     <Card title="UI UX Developer" about="Expert In Designing the webpage overview."/>
     <Card title="UI UX Developer" about="Expert In Designing the webpage overview."/>
-    <Card title="UI UX Developer" about="Expert In Designing the webpage overview."/>
+    {/* <Card title="UI UX Developer" about="Expert In Designing the webpage overview."/> */}
     </div>
 
     </>
