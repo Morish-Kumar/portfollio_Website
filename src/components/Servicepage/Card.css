@@ -1,0 +1,31 @@
+#card {
+  background-color: rgb(217, 222, 220);
+  height: 300px;
+  width: 250px;
+  display: inline-flex;
+  margin-left: 10%;
+  border-radius: 12px;
+}
+
+.card-content {
+  text-align: center;
+  padding-top: 60%;
+}
+
+.card-heading,
+.card-para {
+  color: black;
+}
+
+.circle {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #127ced;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+  margin: 0 auto 10px;
+}
